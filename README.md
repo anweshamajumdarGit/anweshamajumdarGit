@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @anweshamajumdarGit
-- 👀 I’m interested in learning new technologies,learning digital painiting , visiting places to taste the foods and creating blog on that
-- 🌱 I’m currently learning AWS , Azure cloud solutions 
-- 💞️ I’m looking to collaborate on exploring diffrent stacks in Web applictaion development and learning AI/ML
 - 📫 How to reach me vanillatechie@gmail.com
