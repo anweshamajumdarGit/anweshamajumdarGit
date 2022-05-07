@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @anweshamajumdarGit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me anwesha.majumdar@gmail.com
-
-<!---
-anweshamajumdarGit/anweshamajumdarGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in learning new technologies,learning digital painiting , visiting places to taste the foods and creating blog on that
+- 🌱 I’m currently learning AWS , Azure cloud solutions 
+- 💞️ I’m looking to collaborate on exploring diffrent stacks in Web applictaion development and learning AI/ML
+- 📫 How to reach me vanillatechie@gmail.com
